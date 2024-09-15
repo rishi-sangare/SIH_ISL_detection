@@ -1,0 +1,8 @@
+numpy
+opencv-python
+mediapipe
+streamlit
+keyboard
+tensorflow
+scikit-learn
+language-tool-python
